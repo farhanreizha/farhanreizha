@@ -1,25 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Reizha</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+</p> -->
 
-<img align="left" src="https://github.com/farhanreizha/farhanreizha/blob/main/profile.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<!-- <img align="left" src="https://github.com/farhanreizha/farhanreizha/blob/main/profile.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> -->
 
-```
+<!-- ```
  🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
  👯 I’m looking to collaborate on Web Development Related Projects **
  🤔 I’m looking for help with Mern **
  🥅 2023 Goals: To be profficient in MERN Stack :|
  ⚡ Fun fact: I love taking photos, playing video games.
-```
+``` -->
 
-<p>   
+<!-- <p>   
   <img src="https://profile-counter.glitch.me/farhanreizha/count.svg" />  
-</p>
+</p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanreizha&theme=great-gatsby&layout=compact)](https://github.com/farhanreizha)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanreizha&theme=great-gatsby&layout=compact)](https://github.com/farhanreizha)
 
 ---
 ### Skills
@@ -137,7 +137,7 @@
   
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanreizha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanreizha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p> -->
 
 <div align="center">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
@@ -155,4 +155,4 @@
 
 Credit: [farhanreizha](https://github.com/farhanreizha)
 
-Last edited on: 22/09/2022
+Last edited on: 12/08/2024
